@@ -1,4 +1,5 @@
-//This currently is the beginning code and adding to it - Lecture Done In Two Parts
+// skyrockit - Lectures Part One & Part Two
+// This currently is the beginning code and adding to it - Lecture Done In Two Parts
 
 const dotenv = require('dotenv');
 dotenv.config();
