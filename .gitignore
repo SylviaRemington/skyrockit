@@ -1,6 +1,8 @@
 .env
 node_modules
+package-lock.json
 .DS_Store
 # DS Store is a Mac system file that gets thrown in there, so we can put in gitignore to ignore this excess data.
+
 
 
