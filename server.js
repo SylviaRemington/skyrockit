@@ -1,5 +1,6 @@
 // skyrockit - Lectures Part One & Part Two
 // This currently is the beginning code and adding to it - Lecture Done In Two Parts
+// ! stopped at 21 min 37 sec in first lecture (Part One)
 
 const dotenv = require('dotenv');
 dotenv.config();
