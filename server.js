@@ -1,5 +1,6 @@
 // SKYROCKIT - Lectures Part One & Part Two
 // This currently is the beginning code and adding to it - Lecture Done In Two Parts
+// The format of this skyrockit app is how Tristan wants us to set up our Project Two app.
 // ! stopped at 21 min 37 sec in first lecture (Part One)
 
 
