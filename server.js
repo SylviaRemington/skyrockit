@@ -1,6 +1,7 @@
 // SKYROCKIT - Lectures Part One & Part Two
 // This currently is the beginning code and adding to it - Lecture Done In Two Parts
 // The format of this skyrockit app is how Tristan wants us to set up our Project Two app.
+// Need to re-go-through the entire two lectures & code along again for better understanding.
 
 const dotenv = require('dotenv');
 dotenv.config();
